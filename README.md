@@ -3,6 +3,11 @@
 Đây là dự án **Hệ Thống Quản Lý Bệnh Viện** được xây dựng bằng **Cơ sở dữ liệu Oracle**. Dự án được thực hiện với mục đích thực hành thiết kế cơ sở dữ liệu quan hệ, viết câu lệnh SQL và xử lý các bài toán quản lý bệnh viện thực tế.
 
 ---
+🚩 **Lưu ý:**  
+Dự án này được thực hiện cho mục đích **học tập**. Mọi dữ liệu, bảng biểu và tình huống chỉ mang tính **mô phỏng**, không phản ánh dữ liệu thực tế từ bất kỳ cơ sở y tế nào.  
+Sinh viên tự xây dựng để thực hành thiết kế cơ sở dữ liệu, viết truy vấn SQL và quản lý dữ liệu.
+
+---
 
 ## Mục tiêu dự án
 
@@ -52,7 +57,7 @@ Dưới đây là danh sách các bảng chính được thiết kế trong hệ
 
 ## Sơ đồ quan hệ (ERD)
 
-> ![Sơ đồ ERD](path/to/ERD_image.png)
+> ![Sơ đồ ERD](assets/erd_diagram.png)
 
 ---
 
