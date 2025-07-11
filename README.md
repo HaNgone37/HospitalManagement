@@ -73,4 +73,30 @@ Dưới đây là danh sách các bảng chính được thiết kế trong hệ
 ---
 
 ## Một số báo cáo trong dự án
+Dưới đây là một số báo cáo dữ liệu được tạo ra từ hệ thống, nhằm minh hoạ cách truy vấn và trực quan hoá dữ liệu từ cơ sở dữ liệu.
 
+### 1. Doanh thu dịch vụ theo năm
+
+> Báo cáo thể hiện tổng doanh thu dịch vụ theo từng năm và từng tháng.
+
+![Báo cáo doanh thu dịch vụ](images/BCDichVutheonam.png)
+
+---
+
+### 2. Tỉ lệ bệnh nhân nội trú và ngoại trú
+
+> Biểu đồ tròn minh hoạ tỉ lệ bệnh nhân ngoại trú và bệnh nhân nhập viện.
+
+![Tỉ lệ bệnh nhân nội trú và ngoại trú](assets/BCnoitruvangoaitru.png)
+
+---
+
+### 3. Top dịch vụ được sử dụng nhiều nhất
+
+> Báo cáo này liệt kê các dịch vụ có số lượt sử dụng cao nhất, giúp bệnh viện theo dõi và quản lý nguồn lực hiệu quả.
+
+![Top dịch vụ](assets/TopDV.png)
+
+---
+
+**Lưu ý:** Các số liệu trong báo cáo chỉ mang tính **mô phỏng**, phục vụ mục đích học tập, không phản ánh dữ liệu thật.
